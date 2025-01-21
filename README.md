@@ -1,4 +1,5 @@
 # Connected Artificial Nose 🌐👃  
+![image](https://github.com/user-attachments/assets/3c5a45d9-3f7e-454c-b437-e1c2b51c56f9)
 
 An innovative IoT-enabled system that uses gas sensors and AI to detect and classify odors for industrial safety, environmental monitoring, and more. This project demonstrates the integration of hardware sensors, cloud connectivity, and machine learning to build a digital olfactory system.  
 
@@ -68,7 +69,7 @@ For questions or suggestions, reach out to:
 - [LinkedIn](https://www.linkedin.com/in/anjani-devireddy)  
 - [GitHub](https://github.com/anjani-ai)  
 - [Website](https://anjani.ai)  
-
+- [project](https://makezine.com/projects/second-sense-build-an-ai-smart-nose/)
 ---  
 
 Would you like me to add specific details about the AI model or hardware configurations?
